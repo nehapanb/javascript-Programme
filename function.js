@@ -1,4 +1,3 @@
-function data (){
-    let selectdname = selectdname = document.selector('#name')
-
+function card(){
+    let d = 
 }
